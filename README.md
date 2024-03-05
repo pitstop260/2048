@@ -1,6 +1,7 @@
 # 2048
 
 Will this create a conflict?
+I think so...
 
 Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
 
